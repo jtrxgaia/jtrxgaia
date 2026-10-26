@@ -1,7 +1,7 @@
 # Jack Rourke
-### AI Systems Architect · Software Engineer
+### Founder of EchoQI · AI Systems Architect · Software Engineer
 
-I'm an independent AI systems architect and the creator of EchoQI. I design how AI components, memory, tools, and applications fit together, then direct and verify their construction across desktop software, web applications, developer tools, and games.
+I'm an entrepreneur and the founder of EchoQI. I build products and put AI to work: I design how AI components, memory, tools, and applications fit together, then direct and verify their construction across desktop software, web applications, developer tools, and games.
 
 **[View my full portfolio → Next-Gen Intelligence](https://github.com/jtrxgaia/Next-Gen-Intelligence)**
 
